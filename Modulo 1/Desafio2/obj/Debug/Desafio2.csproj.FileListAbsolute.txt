@@ -1,0 +1,8 @@
+C:\Users\nrosa\OneDrive - ANDREANI LOGISTICA SA\Escritorio\CSharp\Modulo1\Modulo 1\Desafio2\bin\Debug\Desafio2.exe.config
+C:\Users\nrosa\OneDrive - ANDREANI LOGISTICA SA\Escritorio\CSharp\Modulo1\Modulo 1\Desafio2\bin\Debug\Desafio2.exe
+C:\Users\nrosa\OneDrive - ANDREANI LOGISTICA SA\Escritorio\CSharp\Modulo1\Modulo 1\Desafio2\bin\Debug\Desafio2.pdb
+C:\Users\nrosa\OneDrive - ANDREANI LOGISTICA SA\Escritorio\CSharp\Modulo1\Modulo 1\Desafio2\obj\Debug\Desafio2.csproj.AssemblyReference.cache
+C:\Users\nrosa\OneDrive - ANDREANI LOGISTICA SA\Escritorio\CSharp\Modulo1\Modulo 1\Desafio2\obj\Debug\Desafio2.csproj.SuggestedBindingRedirects.cache
+C:\Users\nrosa\OneDrive - ANDREANI LOGISTICA SA\Escritorio\CSharp\Modulo1\Modulo 1\Desafio2\obj\Debug\Desafio2.csproj.CoreCompileInputs.cache
+C:\Users\nrosa\OneDrive - ANDREANI LOGISTICA SA\Escritorio\CSharp\Modulo1\Modulo 1\Desafio2\obj\Debug\Desafio2.exe
+C:\Users\nrosa\OneDrive - ANDREANI LOGISTICA SA\Escritorio\CSharp\Modulo1\Modulo 1\Desafio2\obj\Debug\Desafio2.pdb
