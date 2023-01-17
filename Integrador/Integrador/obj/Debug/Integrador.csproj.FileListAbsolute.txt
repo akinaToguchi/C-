@@ -1,0 +1,8 @@
+C:\Users\nrosa\OneDrive - ANDREANI LOGISTICA SA\Escritorio\CSharp\Desafios\Integrador\Integrador\bin\Debug\Integrador.exe.config
+C:\Users\nrosa\OneDrive - ANDREANI LOGISTICA SA\Escritorio\CSharp\Desafios\Integrador\Integrador\bin\Debug\Integrador.exe
+C:\Users\nrosa\OneDrive - ANDREANI LOGISTICA SA\Escritorio\CSharp\Desafios\Integrador\Integrador\bin\Debug\Integrador.pdb
+C:\Users\nrosa\OneDrive - ANDREANI LOGISTICA SA\Escritorio\CSharp\Desafios\Integrador\Integrador\obj\Debug\Integrador.csproj.AssemblyReference.cache
+C:\Users\nrosa\OneDrive - ANDREANI LOGISTICA SA\Escritorio\CSharp\Desafios\Integrador\Integrador\obj\Debug\Integrador.csproj.SuggestedBindingRedirects.cache
+C:\Users\nrosa\OneDrive - ANDREANI LOGISTICA SA\Escritorio\CSharp\Desafios\Integrador\Integrador\obj\Debug\Integrador.csproj.CoreCompileInputs.cache
+C:\Users\nrosa\OneDrive - ANDREANI LOGISTICA SA\Escritorio\CSharp\Desafios\Integrador\Integrador\obj\Debug\Integrador.exe
+C:\Users\nrosa\OneDrive - ANDREANI LOGISTICA SA\Escritorio\CSharp\Desafios\Integrador\Integrador\obj\Debug\Integrador.pdb

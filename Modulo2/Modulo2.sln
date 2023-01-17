@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Desafio1", "Desafio1\Desafio1.csproj", "{CDD2374F-76A1-487F-BBA8-8D5C1EF47727}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Desafio2", "Desafio2\Desafio2.csproj", "{D7ABEA27-CA06-4BA4-86F7-836F4BB7B32A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Desafio3", "Desafio3\Desafio3.csproj", "{6ECAE030-0BB1-44B7-80F1-52E52767660B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CDD2374F-76A1-487F-BBA8-8D5C1EF47727}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDD2374F-76A1-487F-BBA8-8D5C1EF47727}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDD2374F-76A1-487F-BBA8-8D5C1EF47727}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDD2374F-76A1-487F-BBA8-8D5C1EF47727}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7ABEA27-CA06-4BA4-86F7-836F4BB7B32A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7ABEA27-CA06-4BA4-86F7-836F4BB7B32A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7ABEA27-CA06-4BA4-86F7-836F4BB7B32A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7ABEA27-CA06-4BA4-86F7-836F4BB7B32A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6ECAE030-0BB1-44B7-80F1-52E52767660B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6ECAE030-0BB1-44B7-80F1-52E52767660B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6ECAE030-0BB1-44B7-80F1-52E52767660B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6ECAE030-0BB1-44B7-80F1-52E52767660B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {06D011C1-45F5-4CCB-9DCE-6D42862569C0}
+	EndGlobalSection
+EndGlobal
